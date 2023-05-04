@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831623937731",
+    "project_id": "flutter-iframe-test-612bb",
+    "storage_bucket": "flutter-iframe-test-612bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831623937731:android:3bc2c9651794aa61b12c76",
+        "android_client_info": {
+          "package_name": "com.example.iframe_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831623937731-1et3h8qcu56qr29l63iteagg5g1qgb0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALDmRWu0IDvl_2qeKukDvP4CAIxqWFsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831623937731-1et3h8qcu56qr29l63iteagg5g1qgb0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
